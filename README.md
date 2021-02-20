@@ -1,0 +1,1 @@
+Simple demo of Ionic Angular with ngx-electron on the @capacitor-comunity/electron platform.

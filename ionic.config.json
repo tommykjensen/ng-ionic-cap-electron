@@ -1,0 +1,7 @@
+{
+  "name": "ng-ionic-cap-electron",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
